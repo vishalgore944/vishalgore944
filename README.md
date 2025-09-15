@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalgore944" alt="vishalgore944" /></a> </p>
 
-- 🔭 I’m currently working on [Developing Cloud Infrastrucutre.](VIP IND PVT LTD)
+- 🔭 I’m currently working on [Developing Cloud Infrastrucutre.] (VIP Ind Pvt Ltd)
 
 - 🌱 I’m currently learning **DevOps tools**
 
